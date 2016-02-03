@@ -1,0 +1,17 @@
+{
+  "name": "twbb2",
+  "title": "There Will Be Blood 2",
+  "gameVersion": "1.8.9",
+  "launch": {
+    "flags": [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  },
+  "userFiles": {
+    "include": [
+      "options.txt",
+      "optionsshaders.txt",
+      "mods/VoxelMods/*"
+    ]
+  }
+}

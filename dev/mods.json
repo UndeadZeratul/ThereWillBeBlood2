@@ -1,0 +1,13 @@
+{
+    "curseFiles": [
+        {
+            "projectID": 32274,
+            "fileID": 2269324
+        }
+    ],
+    "thirdParty": [
+        {
+            "url": "http://play.nincraft.com:8080/job/Nins%20Mod%20Lister/lastSuccessfulBuild/artifact/build/libs/NinsModLister-1.8.9-2.0.26.jar"
+        }
+    ]
+}

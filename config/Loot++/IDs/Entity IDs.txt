@@ -1,0 +1,173 @@
+## Entity IDs ##
+ArmorStand
+Arrow
+Bat
+Blaze
+BloodMagic.BloodLight
+BloodMagic.SoulArrow
+BloodMagic.SoulSnare
+Boat
+CaveSpider
+Chicken
+Cow
+Creeper
+EnderCrystal
+EnderDragon
+Enderman
+Endermite
+EntityHorse
+EyeOfEnderSignal
+FallingSand
+Fireball
+FireworksRocketEntity
+Ghast
+Giant
+Guardian
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+Mob
+Monster
+MushroomCow
+Ozelot
+Painting
+Pig
+PigZombie
+PneumaticCraft.Drone
+PneumaticCraft.Ring
+PneumaticCraft.Vortex
+PneumaticCraft.logisticDrone
+PrimedTnt
+Rabbit
+Sheep
+Silverfish
+Skeleton
+Slime
+SmallFireball
+SnowMan
+Snowball
+Spider
+Squid
+Thaumcraft.Alumentum
+Thaumcraft.AuraNode
+Thaumcraft.BottleTaint
+Thaumcraft.BrainyZombie
+Thaumcraft.CultistCleric
+Thaumcraft.CultistKnight
+Thaumcraft.CultistLeader
+Thaumcraft.CultistPortalGreater
+Thaumcraft.CultistPortalLesser
+Thaumcraft.EldritchCrab
+Thaumcraft.EldritchGolem
+Thaumcraft.EldritchGuardian
+Thaumcraft.EldritchOrb
+Thaumcraft.EldritchWarden
+Thaumcraft.Ember
+Thaumcraft.ExplosiveOrb
+Thaumcraft.FallingTaint
+Thaumcraft.Firebat
+Thaumcraft.FollowItem
+Thaumcraft.FrostShard
+Thaumcraft.GiantBrainyZombie
+Thaumcraft.Golem
+Thaumcraft.GolemDart
+Thaumcraft.GolemOrb
+Thaumcraft.Grapple
+Thaumcraft.HomingShard
+Thaumcraft.InhabitedZombie
+Thaumcraft.MindSpider
+Thaumcraft.NodeMagnet
+Thaumcraft.Pech
+Thaumcraft.PechBlast
+Thaumcraft.PermanentItem
+Thaumcraft.PrimalArrow
+Thaumcraft.PrimalOrb
+Thaumcraft.ShockOrb
+Thaumcraft.SpecialItem
+Thaumcraft.TaintCloud
+Thaumcraft.TaintCrawler
+Thaumcraft.TaintLightning
+Thaumcraft.TaintSwarm
+Thaumcraft.Taintacle
+Thaumcraft.TaintacleGiant
+Thaumcraft.TaintacleTiny
+Thaumcraft.TaintedChicken
+Thaumcraft.TaintedCow
+Thaumcraft.TaintedCreeper
+Thaumcraft.TaintedPig
+Thaumcraft.TaintedRabbit
+Thaumcraft.TaintedSheep
+Thaumcraft.TaintedVillager
+Thaumcraft.ThaumSlime
+Thaumcraft.TurretAdvanced
+Thaumcraft.TurretBasic
+Thaumcraft.TurretEldritch
+Thaumcraft.TurretFocus
+Thaumcraft.Wisp
+ThrownEgg
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+Villager
+VillagerGolem
+Witch
+WitherBoss
+WitherSkull
+Wolf
+XPOrb
+Zombie
+foundry.gunSkeleton
+lootplusplus.ThrownItem
+xreliquary.entityBlazeShot
+xreliquary.entityBusterShot
+xreliquary.entityConcussiveShot
+xreliquary.entityEnderShot
+xreliquary.entityEnderStaffProjectile
+xreliquary.entityExorcismShot
+xreliquary.entityHGrenade
+xreliquary.entityHolyWater
+xreliquary.entityKSlime
+xreliquary.entityNeutralShot
+xreliquary.entitySandShot
+xreliquary.entitySeekerShot
+xreliquary.entitySpecialSnowball
+xreliquary.entitySplashAphrodite
+xreliquary.entitySplashFertility
+xreliquary.entityStormShot
+xreliquary.entityThrownPotion
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+67 - Endermite
+68 - Guardian
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+98 - Ozelot
+100 - EntityHorse
+101 - Rabbit
+120 - Villager
