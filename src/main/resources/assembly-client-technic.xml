@@ -1,57 +1,57 @@
 <assembly>
-    <id>client</id>
+    <id>client-technic</id>
     <formats>
         <format>zip</format>
     </formats>
     <includeBaseDirectory>false</includeBaseDirectory>
+    <files>
+        <file>
+            <source>common/base/loaders/modpack.jar</source>
+            <outputDirectory>bin/</outputDirectory>
+            <filtered>true</filtered>
+        </file>
+    </files>
     <fileSets>
         <fileSet>
             <directory>common/base</directory>
-            <outputDirectory>/</outputDirectory>
+            <outputDirectory>/minecraft</outputDirectory>
             <includes>
-                <include>loaders/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
-            <excludes>
-                <exclude>loaders/modpack.jar</exclude>
-            </excludes>
         </fileSet>
         <fileSet>
-            <directory>common/dev</directory>
-            <outputDirectory>/</outputDirectory>
+            <directory>common/prod</directory>
+            <outputDirectory>/minecraft</outputDirectory>
             <includes>
-                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
         <fileSet>
             <directory>common/base/config</directory>
-            <outputDirectory>/config</outputDirectory>
+            <outputDirectory>/minecraft/config</outputDirectory>
             <filtered>true</filtered>
         </fileSet>
         <fileSet>
             <directory>client/base</directory>
-            <outputDirectory>/</outputDirectory>
+            <outputDirectory>/minecraft</outputDirectory>
             <includes>
-                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
         <fileSet>
-            <directory>client/dev</directory>
-            <outputDirectory>/</outputDirectory>
+            <directory>client/prod</directory>
+            <outputDirectory>/minecraft</outputDirectory>
             <includes>
-                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
         <fileSet>
             <directory>client/base/config</directory>
-            <outputDirectory>/config</outputDirectory>
+            <outputDirectory>/minecraft/config</outputDirectory>
             <filtered>true</filtered>
         </fileSet>
     </fileSets>
