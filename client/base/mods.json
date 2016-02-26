@@ -1,0 +1,38 @@
+{
+	"curseFiles": [
+	{
+		"name": "Better Foliage",
+		"projectID": 228529,
+		"fileID": 2279143
+	},
+	{
+		"name": "Durability Show",
+		"projectID": 226099,
+		"fileID": 2273148
+	},
+	{
+		"name": "Baubles HUD",
+		"projectID": 230751,
+		"fileID": 2274840
+	},
+	{
+		"name": "Mod Name Tooltip",
+		"projectID": 238747,
+		"fileID": 2270260
+	},
+	{
+		"name": "Better Title Screen",
+		"projectID": 224223,
+		"fileID": 2275454
+	},
+	{
+		"name": "Neat",
+		"projectID": 238372,
+		"fileID": 2275101
+	},
+	{
+		"name": "Inventory Tweaks",
+		"projectID": 223094,
+		"fileID": 2275675
+	}]
+}

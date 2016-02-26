@@ -17,7 +17,7 @@ TWBB requires Java 8, and runs well with 2GBs of RAM, at least through my own pe
 Installation
 ===
 This modpack is currently hosted on the Nincraft Launcher, with plans to publish it to the FTB and Curse Voice Launchers as well.
-- For the Nincraft Launcher, you'll first have to download the latest version [here](https://github.com/Nincraft/Nincraft-Launcher/releases).  Run the launcher and click the modpack called "twbb2", and click "Launch".
+- For the Nincraft Launcher, you'll first have to download the latest version [here](https://github.com/Nincraft/Nincraft-Launcher/releases).  Run the launcher and click the modpack called "There Will Be Blood 2", and click "Launch".
 
 Contributing
 ===

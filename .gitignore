@@ -14,10 +14,10 @@ reports/
 saves/
 screenshots/
 
-config/fastcraft*
-config/mapwriter*
-config/opis*
-config/versionchecker*
+*/config/fastcraft*
+*/config/mapwriter*
+*/config/opis*
+*/config/versionchecker*
 
 *.jar
 *.lck

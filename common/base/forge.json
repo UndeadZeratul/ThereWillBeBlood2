@@ -1,0 +1,12 @@
+{
+	"thirdParty": [
+	{
+		"name": "Minecraft Forge",
+		"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1729/forge-1.8.9-11.15.1.1729-installer.jar"
+	},
+	{
+		"name": "Technic Forge 1729",
+		"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1729/forge-1.8.9-11.15.1.1729-universal.jar",
+		"rename": "modpack.jar"
+	}]
+}

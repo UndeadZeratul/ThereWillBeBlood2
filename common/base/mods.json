@@ -1,0 +1,178 @@
+{
+    "curseFiles": [
+    {
+        "name": "Thaumcraft",
+        "projectID": 223628,
+        "fileID": 2279928
+    },
+    {
+        "name": "Blood Magic",
+        "projectID": 224791,
+        "fileID": 2279356
+    },
+    {
+        "name": "AppleCore",
+        "projectID": 224472,
+        "fileID": 2277394
+    },
+    {
+        "name": "Baubles",
+        "projectID": 227083,
+        "fileID": 2273274
+    },
+    {
+        "name": "Biomes O' Plenty",
+        "projectID": 220318,
+        "fileID": 2279690
+    },
+    {
+        "name": "Hunger In Peace",
+        "projectID": 224473,
+        "fileID": 2277398
+    },
+    {
+        "name": "PneumaticCraft",
+        "projectID": 224125,
+        "fileID": 2279019
+    },
+    {
+        "name": "Roguelike Dungeons",
+        "projectID": 221585,
+        "fileID": 2274593
+    },
+    {
+        "name": "The Spice of Life",
+        "projectID": 220811,
+        "fileID": 2277397
+    },
+    {
+        "name": "Loot++",
+        "projectID": 225880,
+        "fileID": 2280550
+    },
+    {
+        "name": "Just Enough Items",
+        "projectID": 238222,
+        "fileID": 2282784
+    },
+    {
+        "name": "JEI Addons",
+        "projectID": 238660,
+        "fileID": 2278981
+    },
+    {
+        "name": "Just Enough Resources",
+        "projectID": 240630,
+        "fileID": 2278868
+    },
+    {
+        "name": "Hardcore Darkness",
+        "projectID": 225957,
+        "fileID": 2268021
+    },
+    {
+        "name": "MCMultipart",
+        "projectID": 239431,
+        "fileID": 2279615
+    },
+    {
+        "name": "CraftTweaker",
+        "projectID": 239197,
+        "fileID": 2274826
+    },
+    {
+        "name": "Stackie",
+        "projectID": 225606,
+        "fileID": 2272944
+    },
+    {
+        "name": "LunatriusCore",
+        "projectID": 225605,
+        "fileID": 2272942
+    },
+    {
+        "name": "InfiniBows",
+        "projectID": 224713,
+        "fileID": 2276241
+    },
+    {
+        "name": "Bloodmoon",
+        "projectID": 226321,
+        "fileID": 2269766
+    },
+    {
+        "name": "Just a Few Fish",
+        "projectID": 235261,
+        "fileID": 2279769
+    },
+    {
+        "name": "Realistic Torches",
+        "projectID": 235729,
+        "fileID": 2273089
+    },
+    {
+        "name": "Fast Leaf Decay",
+        "projectID": 225839,
+        "fileID": 2269767
+    },
+    {
+        "name": "Hammerz",
+        "projectID": 238928,
+        "fileID": 2277041
+    },
+    {
+        "name": "Dynamic Surroundings",
+        "projectID": 238891,
+        "fileID": 2282308
+    },
+    {
+        "name": "Foundry",
+        "projectID": 228297,
+        "fileID": 2279328
+    },
+    {
+        "name": "Simple Harvest",
+        "projectID": 240783,
+        "fileID": 2279650
+    },
+    {
+        "name": "Glass Shards",
+        "projectID": 226834,
+        "fileID": 2275360
+    },
+    {
+        "name": "Ice Shards",
+        "projectID": 229598,
+        "fileID": 2269867
+    },
+    {
+        "name": "Substratum",
+        "projectID": 241113,
+        "fileID": 2279246
+    },
+    {
+        "name": "Reliquary",
+        "projectID": 241319,
+        "fileID": 2279439
+    },
+    {
+        "name": "Default World Generator",
+        "projectID": 241140,
+        "fileID": 2277401
+    },
+    {
+        "name": "Instant Drowning",
+        "projectID": 241195,
+        "fileID": 2278687
+    },
+    {
+        "name": "Immersive Craft",
+        "projectID": 241268,
+        "fileID": 2281942
+    }],
+    "thirdparty": [
+    {
+        "name": "Immersion",
+        "url": "http://minecraft.curseforge.com/projects/immersion/files/2280658/download"
+    }]
+}
