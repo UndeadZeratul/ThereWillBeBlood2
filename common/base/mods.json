@@ -170,9 +170,10 @@
         "projectID": 220811,
         "fileID": 2277397
     }],
-    "thirdparty": [
+    "thirdParty": [
     {
         "name": "Immersion",
-        "url": "http://minecraft.curseforge.com/projects/immersion/files/2280658/download"
+        "url": "http://minecraft.curseforge.com/projects/immersion/files/2280658/download",
+        "rename": "immersion-1.8.9-0.1.2"
     }]
 }
