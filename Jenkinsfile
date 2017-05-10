@@ -32,22 +32,17 @@ node {
    stage 'Download Common mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" -manifest common/dev/mods.json  -folder common/dev/mods
-          java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods
-          java -jar "%modpackdownloader%" -manifest common/prod/mods.json -folder common/prod/mods'''
+          java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods'''
 
 
    stage 'Download Client mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" -manifest client/dev/mods.json  -folder client/dev/mods
-          java -jar "%modpackdownloader%" -manifest client/base/mods.json -folder client/base/mods
-          java -jar "%modpackdownloader%" -manifest client/prod/mods.json -folder client/prod/mods'''
+          java -jar "%modpackdownloader%" -manifest client/base/mods.json -folder client/base/mods'''
 
 
    stage 'Download Server mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" -manifest server/dev/mods.json  -folder server/dev/mods
-          java -jar "%modpackdownloader%" -manifest server/base/mods.json -folder server/base/mods
-          java -jar "%modpackdownloader%" -manifest server/prod/mods.json -folder server/prod/mods'''
+          java -jar "%modpackdownloader%" -manifest server/base/mods.json -folder server/base/mods'''
 
 
    stage 'Build Pack'
@@ -57,7 +52,7 @@ node {
    else{
       profileName = "develop"
    }
-   
+
    bat "mvnw clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}"
 
 
